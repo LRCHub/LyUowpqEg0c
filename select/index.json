@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "いえない（feat. 堂村璃羽、301、GeG）",
+  "base_artist": "MAISONdes",
+  "createdAt": "2026-02-19T01:13:52.751802Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いえない",
+      "artist": "MAISONdes ft. 堂村璃羽, 301, GeG",
+      "has_synced": false,
+      "path": "select/pl_01_いえない_MAISONdes_ft._堂村璃羽,_301,_GeG.txt"
+    }
+  ]
+}
